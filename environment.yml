@@ -1,0 +1,6 @@
+name: camera
+dependencies:
+  - python=True
+  - pip
+  - pip:
+      - -e .
